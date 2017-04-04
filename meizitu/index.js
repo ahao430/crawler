@@ -30,7 +30,6 @@ function geturls () {
 } 
 var urls = geturls()
 
-// adsad
 //发送请求
 function getData (url, callback) {
   var option = {
